@@ -1,0 +1,7 @@
+[user]
+	name = lc
+	email = louise@consideringa11y.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
